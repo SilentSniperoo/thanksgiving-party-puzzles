@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 215.9 279.4"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.0 r15299"
+   sodipodi:docname="RaycastGrid.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6224">
+      <stop
+         style="stop-color:#666666;stop-opacity:1;"
+         offset="0"
+         id="stop6220" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1"
+         id="stop6222" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6224"
+       id="radialGradient6226"
+       cx="-70.024612"
+       cy="132.0947"
+       fx="-70.024612"
+       fy="132.0947"
+       r="14.967093"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3325429,-0.15210527,0.08300098,0.7271436,14.714654,26.525037)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="342.07807"
+     inkscape:cy="242.63367"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:snap-page="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="1912"
+     inkscape:window-y="1078"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-17.6)">
+    <rect
+       style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect5141"
+       width="169.7869"
+       height="169.7869"
+       x="23.056547"
+       y="40.656548" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 23.056547,125.55 H 192.84344"
+       id="path5147"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 136.37039,210.44345 V 40.656548"
+       id="path5147-8"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 23.056547,97.129611 H 192.84345"
+       id="path5147-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 23.056547,182.39077 H 192.84344"
+       id="path5147-5-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 79.529608,210.44344 V 40.656548"
+       id="path5147-8-0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 23.056821,153.97039 H 192.84373"
+       id="path5147-5-95"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 23.056547,68.709221 H 192.84344"
+       id="path5147-5-3"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 51.109225,210.44344 V 40.656548"
+       id="path5147-8-68"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 107.95,210.44344 V 40.656548"
+       id="path5147-8-67"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 164.79078,210.44344 V 40.656548"
+       id="path5147-8-7"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="36.858753"
+       y="58.076836"
+       id="text5333"><tspan
+         sodipodi:role="line"
+         id="tspan5331"
+         x="36.858753"
+         y="58.076836"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="36.858753"
+       y="86.370331"
+       id="text5337"><tspan
+         sodipodi:role="line"
+         id="tspan5335"
+         x="36.858753"
+         y="86.370331"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">e</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="36.858753"
+       y="114.66383"
+       id="text5341"><tspan
+         sodipodi:role="line"
+         id="tspan5339"
+         x="36.858753"
+         y="114.66383"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">t</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="36.858753"
+       y="142.95732"
+       id="text5345"><tspan
+         sodipodi:role="line"
+         id="tspan5343"
+         x="36.858753"
+         y="142.95732"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">j</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="36.858753"
+       y="171.25081"
+       id="text5349"><tspan
+         sodipodi:role="line"
+         id="tspan5347"
+         x="36.858753"
+         y="171.25081"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">l</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="36.858753"
+       y="199.54431"
+       id="text5353"><tspan
+         sodipodi:role="line"
+         id="tspan5351"
+         x="36.858753"
+         y="199.54431"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">c</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="65.100151"
+       y="58.076836"
+       id="text5333-73"><tspan
+         sodipodi:role="line"
+         id="tspan5331-0"
+         x="65.100151"
+         y="58.076836"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">n</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="65.100151"
+       y="86.370331"
+       id="text5337-01"><tspan
+         sodipodi:role="line"
+         id="tspan5335-7"
+         x="65.100151"
+         y="86.370331"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">h</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="65.100151"
+       y="114.66383"
+       id="text5341-0"><tspan
+         sodipodi:role="line"
+         id="tspan5339-4"
+         x="65.100151"
+         y="114.66383"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">d</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="65.100151"
+       y="142.95732"
+       id="text5345-4"><tspan
+         sodipodi:role="line"
+         id="tspan5343-4"
+         x="65.100151"
+         y="142.95732"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">o</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="65.100151"
+       y="171.25081"
+       id="text5349-1"><tspan
+         sodipodi:role="line"
+         id="tspan5347-9"
+         x="65.100151"
+         y="171.25081"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">m</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="65.100151"
+       y="199.54431"
+       id="text5353-3"><tspan
+         sodipodi:role="line"
+         id="tspan5351-2"
+         x="65.100151"
+         y="199.54431"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">e</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="93.341545"
+       y="58.076836"
+       id="text5333-73-7"><tspan
+         sodipodi:role="line"
+         id="tspan5331-0-3"
+         x="93.341545"
+         y="58.076836"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">l</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="93.341545"
+       y="86.370331"
+       id="text5337-01-6"><tspan
+         sodipodi:role="line"
+         id="tspan5335-7-9"
+         x="93.341545"
+         y="86.370331"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">f</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="93.341545"
+       y="114.66383"
+       id="text5341-0-4"><tspan
+         sodipodi:role="line"
+         id="tspan5339-4-7"
+         x="93.341545"
+         y="114.66383"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">d</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="93.341545"
+       y="142.95732"
+       id="text5345-4-9"><tspan
+         sodipodi:role="line"
+         id="tspan5343-4-1"
+         x="93.341545"
+         y="142.95732"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">z</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="93.341545"
+       y="171.25081"
+       id="text5349-1-6"><tspan
+         sodipodi:role="line"
+         id="tspan5347-9-3"
+         x="93.341545"
+         y="171.25081"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">a</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="93.341545"
+       y="199.54431"
+       id="text5353-3-8"><tspan
+         sodipodi:role="line"
+         id="tspan5351-2-5"
+         x="93.341545"
+         y="199.54431"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">k</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="121.58294"
+       y="58.076836"
+       id="text5333-73-8"><tspan
+         sodipodi:role="line"
+         id="tspan5331-0-8"
+         x="121.58294"
+         y="58.076836"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">i</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="121.58294"
+       y="86.370331"
+       id="text5337-01-7"><tspan
+         sodipodi:role="line"
+         id="tspan5335-7-3"
+         x="121.58294"
+         y="86.370331"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">y</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="121.58294"
+       y="114.66383"
+       id="text5341-0-5"><tspan
+         sodipodi:role="line"
+         id="tspan5339-4-3"
+         x="121.58294"
+         y="114.66383"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">w</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="121.58294"
+       y="142.95732"
+       id="text5345-4-5"><tspan
+         sodipodi:role="line"
+         id="tspan5343-4-5"
+         x="121.58294"
+         y="142.95732"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">f</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="121.58294"
+       y="171.25081"
+       id="text5349-1-1"><tspan
+         sodipodi:role="line"
+         id="tspan5347-9-1"
+         x="121.58294"
+         y="171.25081"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">m</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="121.58294"
+       y="199.54431"
+       id="text5353-3-6"><tspan
+         sodipodi:role="line"
+         id="tspan5351-2-1"
+         x="121.58294"
+         y="199.54431"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">u</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="149.82434"
+       y="58.076836"
+       id="text5333-73-2"><tspan
+         sodipodi:role="line"
+         id="tspan5331-0-37"
+         x="149.82434"
+         y="58.076836"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">a</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="149.82434"
+       y="86.370331"
+       id="text5337-01-3"><tspan
+         sodipodi:role="line"
+         id="tspan5335-7-7"
+         x="149.82434"
+         y="86.370331"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">g</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="149.82434"
+       y="114.66383"
+       id="text5341-0-3"><tspan
+         sodipodi:role="line"
+         id="tspan5339-4-8"
+         x="149.82434"
+         y="114.66383"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">n</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="149.82434"
+       y="142.95732"
+       id="text5345-4-2"><tspan
+         sodipodi:role="line"
+         id="tspan5343-4-51"
+         x="149.82434"
+         y="142.95732"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">a</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="149.82434"
+       y="171.25081"
+       id="text5349-1-19"><tspan
+         sodipodi:role="line"
+         id="tspan5347-9-5"
+         x="149.82434"
+         y="171.25081"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">l</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="149.82434"
+       y="199.54431"
+       id="text5353-3-3"><tspan
+         sodipodi:role="line"
+         id="tspan5351-2-8"
+         x="149.82434"
+         y="199.54431"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">q</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="178.06573"
+       y="58.076836"
+       id="text5333-73-1"><tspan
+         sodipodi:role="line"
+         id="tspan5331-0-4"
+         x="178.06573"
+         y="58.076836"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">d</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="178.06573"
+       y="86.370331"
+       id="text5337-01-30"><tspan
+         sodipodi:role="line"
+         id="tspan5335-7-6"
+         x="178.06573"
+         y="86.370331"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">e</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="178.06573"
+       y="114.66383"
+       id="text5341-0-9"><tspan
+         sodipodi:role="line"
+         id="tspan5339-4-73"
+         x="178.06573"
+         y="114.66383"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">r</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="178.06573"
+       y="142.95732"
+       id="text5345-4-96"><tspan
+         sodipodi:role="line"
+         id="tspan5343-4-9"
+         x="178.06573"
+         y="142.95732"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">o</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="178.06573"
+       y="171.25081"
+       id="text5349-1-5"><tspan
+         sodipodi:role="line"
+         id="tspan5347-9-2"
+         x="178.06573"
+         y="171.25081"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">a</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;line-height:8.8899107px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35559642"
+       x="178.06573"
+       y="199.54431"
+       id="text5353-3-36"><tspan
+         sodipodi:role="line"
+         id="tspan5351-2-7"
+         x="178.06573"
+         y="199.54431"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.22399998px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.35559642">b</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 23.056547,40.656538 H 192.84344"
+       id="path5811"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 192.84344,210.44345 H 23.056547"
+       id="path5813"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 85.09002,167.99672 H 79.529608"
+       id="path5987"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 107.77322,54.991934 h -5.56041"
+       id="path5905-8" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 113.51041,63.148812 107.95,68.709221"
+       id="path5927-9" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 107.95,83.103271 h -5.56041"
+       id="path5905-5" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 164.79078,68.709221 5.56041,5.560407"
+       id="path5901-7" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 150.76444,63.148811 v 5.56041"
+       id="path5947-3" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 141.9308,111.52366 h -5.56041"
+       id="path5987-2" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 79.529608,97.129611 5.560407,5.560399"
+       id="path5901-4" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 65.503271,91.569201 v 5.56041"
+       id="path5947-8" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 79.529608,182.39077 73.9692,187.95118"
+       id="path5899-3" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 37.083158,153.97039 v 5.56041"
+       id="path5907-5" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 51.109225,97.129611 -5.560409,5.560409"
+       id="path5899-9" />
+    <g
+       id="g6235"
+       transform="translate(87.598239,93.963985)">
+      <circle
+         r="7.9156442"
+         cy="134.50012"
+         cx="-64.946495"
+         id="path6218"
+         style="opacity:1;fill:url(#radialGradient6226);fill-opacity:1;fill-rule:nonzero;stroke:#636363;stroke-width:0.52886987;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <text
+         id="text6230"
+         y="138.34651"
+         x="-65.14576"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.22399998px;line-height:6.61458302px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.22399998px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           y="138.34651"
+           x="-65.14576"
+           id="tspan6228"
+           sodipodi:role="line">2</tspan></text>
+    </g>
+    <g
+       id="g4573-7"
+       transform="translate(-31.750001,13.63613)">
+      <rect
+         y="256.78333"
+         x="52.031467"
+         height="1.8918464"
+         width="175.33707"
+         id="rect4567-9"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         d="M 62.317389,214.82794 H 224.99826 v 41.95539 m -170.596515,0 v -34.03974"
+         id="rect4569-0"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+  </g>
+</svg>

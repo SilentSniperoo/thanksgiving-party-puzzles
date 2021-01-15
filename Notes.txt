@@ -1,0 +1,55 @@
+Ultimate goal: Get the words of a Bible verse.
+
+Puzzle: Spellchecker
+
+Once upon a tima tyere were three liltle bops and they were awesome.
+               e  h                 t
+Code length: 2
+What are the code letters? eht
+What is the code word? the
+
+Not what we call our blesings, but now we use them, is the thue measure of our thanksgivlng.
+            c           s          h                        r                  t        i
+Code length: 2
+What are the code letters? cshrti
+What is the code word? christ
+
+Puzzle: Counting
+
+2o7d3 5o4g6o1D
+
+2oe7ds3 5of4gryr6oq1Dz
+
+1Dyzdwtv4g
+rrg2oymzts
+fqwicvi7dz
+qv3 xxdcjs
+gug5o6osbm
+
+What is the code word? Do good
+
+Puzzle: Grid Raycasting
+
++-----+-----+-----+-----+-----+-----+
+|     |     |     |     |     |     |
+|  x  |  n  |  l -|  i  |  a  |  d  |
+|     |     |     |/    |  |  |     |
++-----+-----+-----+-----+-----+-----+
+|     |     |     |     |     |\    |
+|  e  |  h  |  f -|  y  |  a  |  e  |
+|     |  |  |     |     |     |     |
++-----+-----+-----+-----+-----+-----+
+|    /|     |\    |     |     |     |
+|  t  |  d  |  d  |  w  |- n  |  r  |
+|     |     |     |     |     |     |
++-----+-----+-----+-----+-----+-----+
+|  |  |     |     |     |     |     |
+|  l  |  o  |- a  |  f  |  a  |  o  |
+|     |     |     |     |     |     |
++-----+-----+-----+-----+-----+-----+
+|     |    /|     |     |     |     |
+|  j  |  e  |  z  |  m  |  l  |  a  |
+|     |     |     |     |     |     |
++-----+-----+-----+-----+-----+-----+
+
+What is the code word? life and health
